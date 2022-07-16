@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Detecting clinical change and rehabilitation outcomes in children with acquired brain injury: A service evaluation within Recolo UK LTD."
-date:   2021-12-11 00:00:00 +00:00
+date:   2019-12-11 00:00:00 +00:00
 categories: research
 author: "Tanushri Kabra"
 authors: "<strong>Tanushri Kabra</strong>, Peter Tucker"
+venue: University of Bristol Dissertation
 dissertation: https://drive.google.com/file/d/1taKwFcNO9zNJsE1W09d3ZeFNvp3wekxd/view
 ---
 * Aimed at providing recommendations and evaluating the service based on a detailed analysis of the routinely collected data from Recolo UK Ltd.
